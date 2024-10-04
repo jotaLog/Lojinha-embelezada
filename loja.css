@@ -1,0 +1,66 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+#fundo{
+    background-color: aliceblue;
+}
+
+#header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    color: white;
+    background-color: #FF0000;
+    
+}
+#titulo {
+    font-size: 50px;
+}
+#a {
+    text-align: center;
+    background-color: rgb(187, 31, 31);
+    height: 30px;
+}
+
+
+#main {
+    text-align: center;
+    color: tomato;
+}
+#inicio {
+    height: 100px;
+}
+#noriel {
+    text-align: center;
+    height: 650px;
+}
+
+
+#footer {
+    text-align: center;
+
+    color: tomato;
+    height: 20px;
+}
+#images{
+    background-color: aliceblue;
+}
+
+/* ctrl de estoque */
+
+/* add produto */
+
+#mainadd{
+    height: 750px;
+}
+#sla2{
+    margin: 20px;
+    text-align: center;
+}
+#sla3{
+    margin: 20px;
+    text-align: center;
+}
+#sla4{
+    text-align: right;
+}
